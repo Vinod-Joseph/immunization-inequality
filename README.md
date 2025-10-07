@@ -16,4 +16,4 @@ This repository contains the Stata code and supporting documentation for the res
 This project investigates **socioeconomic and demographic inequalities** in child immunization coverage in India using data from the **National Family Health Survey (NFHS)**.  
 The analysis applies the **Concentration Index (CI)** and **Wagstaff decomposition** to identify the relative contributions of household wealth, maternal education, religion, caste, and regional factors to inequality in full immunization among children aged 12–23 months.
 
----
+Data: Available upon request from the DHS Program — https://dhsprogram.com/data/new-user-registration.cfm

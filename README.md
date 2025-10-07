@@ -6,7 +6,7 @@ Understanding inequalities in child immunization in India: a decomposition appro
 
 This repository contains the Stata code and supporting documentation for the research article:  
 
-> **Kannankeril Joseph, V. J. (2022). “Understanding inequalities in child immunization in India: a decomposition approach.” _Journal of Biosocial Science_, 54(3), 371–383.**  
+> **Kannankeril Joseph, V. J. (2021). “Understanding inequalities in child immunization in India: a decomposition approach.” _Journal of Biosocial Science_, 54(3), 371–383.**  
 > [https://doi.org/10.1017/S0021932021000110](https://doi.org/10.1017/S0021932021000110)
 
 ---
